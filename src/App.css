@@ -1,0 +1,13 @@
+.game--container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  width: 306px;
+  margin: 50px auto;
+}
+.section{
+  text-align: center;
+}
+.header{
+  font-size: 30px;
+  font-weight: bold;
+}
